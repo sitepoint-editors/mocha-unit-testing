@@ -1,6 +1,6 @@
 ## Getting Started with JavaScript Unit Testing Using Mocha
 
-Code to accompany the following article:
+Code to accompany the following article: http://www.sitepoint.com/unit-test-javascript-mocha-chai
 
 To run the code samples:
 
