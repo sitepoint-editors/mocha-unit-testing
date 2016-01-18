@@ -1,9 +1,9 @@
-//  Uncomment if using Node
+// Uncomment if using Node
 // var chai = require('chai');
 var assert = chai.assert;
 
-//var className = require('../js/className.js');
-//var addClass = className.addClass;
+// var className = require('../js/className.js');
+// var addClass = className.addClass;
 
 describe('addClass', function() {
   it('should add class into element', function() {
